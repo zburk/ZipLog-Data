@@ -3,14 +3,14 @@
     {
       "id": 1,
       "userId": 1,
-      "title": "SHC"
+      "title": "SHC",
       "startTime": 1602470160,
       "endTime": 1602570160
     },
     {
       "id": 2,
       "userId": 1,
-      "title": "Wake Smiles"
+      "title": "Wake Smiles",
       "startTime": 1602430560,
       "endTime": 1602431540
     }
